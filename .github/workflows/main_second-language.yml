@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'second-language'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_25EDBAB86DCE47819401CCEDA6998066 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_98A1FEB0493C4CF0A67CA03E75FBFACF }}
           package: .
