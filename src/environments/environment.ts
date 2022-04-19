@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,  
-  apiBaseUrl:'https://second-skill.azurewebsites.net/'
+  apiBaseUrl:'http://second-skill.azurewebsites.net/'
 };
 
 /*
